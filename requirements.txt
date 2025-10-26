@@ -1,1 +1,7 @@
-streamlit spacy textblob transformers torch whisper pandas
+streamlit
+spacy
+textblob
+transformers
+torch
+whisper
+pandas
